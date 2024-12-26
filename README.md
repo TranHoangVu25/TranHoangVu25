@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Hoang Vu</h1>
-- 🌱 I’m currently learning **reinforcement learning**
+- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **hoangvudx2004@gmail.com**
 
